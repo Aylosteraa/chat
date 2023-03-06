@@ -1,0 +1,33 @@
+.registerform {
+	height: 350px;
+	width: 350px;
+	background-color: rgba(90, 48, 90, 0.607);
+	border-radius: 50px;
+	justify-content: space-between;
+}
+
+.wrapper{
+	display: flex;
+	flex-direction: column;
+    align-items: center;
+	padding: 10px;
+}
+
+header {
+	display: flex;
+  	align-items: center;
+  	justify-content: center;
+	padding-top: 20px;
+}
+
+h2 {
+	color: aliceblue;
+}
+
+button {
+	height: 40px;
+	width: 120px;
+	background-color:rgb(66, 49, 98);
+	color:aliceblue;
+	border-radius: 50px;
+}
